@@ -1,7 +1,7 @@
 # fileupload
 
 download the fileuploaddemo.rar file.
-extract the .rar file and the cmd prompt.
+extract the .rar file and go to the cmd prompt.
 
 run the "gradle clean build" command in cmd prompt.
 
